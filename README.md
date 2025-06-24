@@ -50,10 +50,7 @@ To evaluate the post-launch performance of Wavecon Telecom’s 5G rollout by ana
 
 Wavecon-Telecom-5G-Analysis/
 ├── Presentation/
-│ └── Wavecon_5G_Impact_Presentation.pdf
-├── Dashboard/
-│ └── Wavecon_5G_Dashboard.pbix
-└── README.md
+│ Wavecon_5G_Impact_Presentation.pdf
 
 
 
